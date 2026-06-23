@@ -1,0 +1,97 @@
+body
+{
+    background-color: #322e2e;
+    font-family: "Inter";
+    font-size: 22px;
+    color: #ddc0c0;
+}
+
+#container
+{
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo
+{
+    color: #16c816;
+    margin-top: 22px;
+    font-size: 44px;
+    letter-spacing: 5px;
+}
+
+#topbar-primary
+{
+    background-color: cornflowerblue;
+    color: black;
+    padding: 12px;
+    margin-top: 22px;
+    margin-bottom: 25px;
+    height: 143px;
+}
+
+#topbar-secondary
+{
+    background-color: steelblue;
+    color: black;
+    padding: 12px;
+    margin-top: 22px;
+    margin-bottom: 25px;
+    height: 107px;
+}
+
+#topbar-tertiary
+{
+    background-color: darkslategrey;
+    color: #dcc1c1;
+    padding: 12px;
+    margin-top: 22px;
+    margin-bottom: 25px;
+    height: 337px;
+}
+
+#topbar-quaternary
+{
+    background-color: indianred;
+    color: #2b0303;
+    padding: 12px;
+    margin-top: 22px;
+    margin-bottom: 25px;
+    height: 157px;
+}
+
+#topbar-quinary
+{
+    background-color: forestgreen;
+    color: #1d3704;
+    padding: 12px;
+    margin-top: 22px;
+    margin-bottom: 25px;
+    height: 1470px;
+}
+
+/* Nieodwiedzony linkacz */
+a:link
+{
+    color: cornflowerblue;
+}
+
+/* Odwiedzony linkacz */
+a:visited
+{
+    color: #3f67b5;
+}
+
+/* Link PO najechaniu myszką */
+a:hover
+{
+    color: #00ff24;
+}
+
+hr {
+  border: none;
+  height: 7px;
+  background-color: #333;
+  margin: 20px 0;
+}
