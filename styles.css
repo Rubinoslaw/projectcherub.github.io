@@ -61,16 +61,6 @@ body
     height: 157px;
 }
 
-#topbar-quinary
-{
-    background-color: forestgreen;
-    color: #1d3704;
-    padding: 12px;
-    margin-top: 22px;
-    margin-bottom: 25px;
-    height: 1470px;
-}
-
 /* Nieodwiedzony linkacz */
 a:link
 {
